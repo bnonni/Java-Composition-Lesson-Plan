@@ -1,5 +1,5 @@
 public class Car {
- // Methods implementation and class/Instance members
+ //private variables 
  private String color;
  private int maxSpeed;
 
